@@ -10,7 +10,6 @@ body{
     font-family: 'Roboto', sans-serif;
 
 }
-
         
 .header{ 
     background-color: rgb(0, 13, 128);
@@ -36,12 +35,10 @@ a{
     color:white;
     font-size: 22px;
 }
-
-a:nth-child(5)
-a:nth-child(6){
+a.buton{
     border: 1px solid wheat;
     padding: 10px;
-}
+ }
 
 h1{
     color: whitesmoke;
@@ -67,6 +64,12 @@ section.right-side img{
     box-shadow: 4px 5px 10px rgb(0,0,0,4);
 }
 
+video{
+    width: 500px;
+    height: 300px;
+}
+
 .footer{
     color: white;
 }
+

@@ -77,11 +77,13 @@ video {
 .product-card{
     width: 200px;
     height: 200px;
-    border: 200px;
+    border:1px solid red;
+    justify-content: space-around;
+
 }
 
 section{
-    padding-top: 200px;
+    padding-top: 10px;
     display: flex;
     justify-content: space-around;
 }
